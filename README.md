@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Arpit moni</h1>
 <h3 align="center">A passionate backend developer & ui/ux designer from India</h3>
 
+<p align="right">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500">
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpitmoni&label=Profile%20views&color=0e75b6&style=flat" alt="arpitmoni" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arpitmoni" alt="arpitmoni" /></a> </p>
